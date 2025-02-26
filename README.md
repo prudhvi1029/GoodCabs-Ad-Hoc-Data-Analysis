@@ -91,7 +91,7 @@ The dataset consists of **two databases**:
 ## 📜 Project Files
 
 - 📄 **[ADHOC Requests.ipynb](https://github.com/prudhvi1029/GoodCabs-Ad-Hoc-Data-Analysis/blob/main/ADHOC%20Requests.ipynb)** - Jupyter Notebook with SQL execution and analysis.
-- 🗄️ **[queries.sql](#)** - SQL queries used for extracting insights. *(Upload the file and update the link)*
+- 🗄️ **[queries.sql](https://github.com/prudhvi1029/GoodCabs-Ad-Hoc-Data-Analysis/tree/main/MySQL%20Queries)** - SQL queries used for extracting insights. *(Upload the file and update the link)*
 - 📊 **[meta_data.txt](https://github.com/prudhvi1029/GoodCabs-Ad-Hoc-Data-Analysis/blob/main/DataSets/meta_data.txt)** - Table schema and descriptions.
 - 📝 **[problem_statement.pdf](https://github.com/prudhvi1029/GoodCabs-Ad-Hoc-Data-Analysis/blob/main/problem_statement.pdf)** - Business problem and objectives.
 - ❓ **[ad-hoc-requests.pdf](https://github.com/prudhvi1029/GoodCabs-Ad-Hoc-Data-Analysis/blob/main/ad-hoc-requests.pdf)** - Business queries analyzed in this project.
