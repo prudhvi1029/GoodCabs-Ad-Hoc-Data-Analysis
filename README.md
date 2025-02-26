@@ -90,12 +90,12 @@ The dataset consists of **two databases**:
 
 ## 📜 Project Files
 
-- **`ADHOC Requests.ipynb`** - Jupyter Notebook with analysis & SQL execution.
-- **`queries.sql`** - SQL queries used for data extraction.
-- **`meta_data.txt`** - Table schema and descriptions.
-- **`problem_statement.pdf`** - Business problem and objectives.
-- **`ad-hoc-requests.pdf`** - Set of business queries analyzed.
-- **`primary_and_secondary_questions.pdf`** - Key questions guiding the analysis.
+- 📄 **[ADHOC Requests.ipynb](https://github.com/prudhvi1029/GoodCabs-Ad-Hoc-Data-Analysis/blob/main/ADHOC%20Requests.ipynb)** - Jupyter Notebook with SQL execution and analysis.
+- 🗄️ **[queries.sql](#)** - SQL queries used for extracting insights. *(Upload the file and update the link)*
+- 📊 **[meta_data.txt](https://github.com/prudhvi1029/GoodCabs-Ad-Hoc-Data-Analysis/blob/main/DataSets/meta_data.txt)** - Table schema and descriptions.
+- 📝 **[problem_statement.pdf](https://github.com/prudhvi1029/GoodCabs-Ad-Hoc-Data-Analysis/blob/main/problem_statement.pdf)** - Business problem and objectives.
+- ❓ **[ad-hoc-requests.pdf](https://github.com/prudhvi1029/GoodCabs-Ad-Hoc-Data-Analysis/blob/main/ad-hoc-requests.pdf)** - Business queries analyzed in this project.
+- 🔍 **[primary_and_secondary_questions.pdf](https://github.com/prudhvi1029/GoodCabs-Ad-Hoc-Data-Analysis/blob/main/primary_and_secondary_questions.pdf)** - Key questions guiding the analysis.
 
 ---
 
