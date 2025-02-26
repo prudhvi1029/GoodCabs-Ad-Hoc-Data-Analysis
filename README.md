@@ -3,7 +3,7 @@
 This project is an **ad-hoc data analysis** of Goodcabs' operations, focusing on **trip patterns, passenger behavior, and target performance**. The analysis was conducted using **MySQL** for querying and **Jupyter Notebook** for documentation, with queries executed directly from Jupyter by connecting to a **MySQL database hosted locally**.
 
 ---
-
+![Good Cabs project logo](https://github.com/user-attachments/assets/188e1c42-3e0d-4bad-ba5f-10c6daa0973e)
 ## 📌 Project Overview
 
 ### 🚨 Problem Statement: Goodcabs Data Analysis
